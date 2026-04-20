@@ -461,7 +461,6 @@
     "notes": "Holiday kite light show over Jockey's Ridge dunes. 19-30 ft illuminated kites. Post-Thanksgiving tradition.",
     "type": "festival", "source": "kittyhawk.com", "verified": true
   },
-  
 {
   "id": "evt_034",
   "name": "The Kite Festival at Grand Haven",
@@ -472,8 +471,22 @@
   "date_start": "2026-05-16", "date_end": "2026-05-16",
   "hours": "10:00 AM - 5:00 PM",
   "free": true,
-  "url": "",
+  "url": "https://www.facebook.com/KiteFestatGH/",
   "notes": "",
-  "type": "festival", "source": "", "verified": false
+  "type": "festival", "source": "facebook.com", "verified": true
+},
+{
+  "id": "evt_035",
+  "name": "Wildwood International Kite Festival",
+  "location": "Wildwood, NJ",
+  "venue": "Beach at Rio Grande Ave and Wildwoods Convention Center",
+  "address": "4501 Boardwalk, Wildwood, NJ 08260",
+  "lat": 38.9923, "lon": -74.8146,
+  "date_start": "2026-05-22", "date_end": "2026-05-24",
+  "hours": "All day",
+  "free": true,
+  "url": "https://wildwoodsnj.com/event/wildwoods-international-kite-ffestival-2/",
+  "notes": "Friday through Sunday, Memorial Day weekend.",
+  "type": "festival", "source": "capemay.com", "verified": true
 }
 ]
