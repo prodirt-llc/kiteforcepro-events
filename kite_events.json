@@ -460,5 +460,20 @@
     "url": "https://www.kittyhawk.com/events/",
     "notes": "Holiday kite light show over Jockey's Ridge dunes. 19-30 ft illuminated kites. Post-Thanksgiving tradition.",
     "type": "festival", "source": "kittyhawk.com", "verified": true
-  }
+  },
+  
+{
+  "id": "evt_034",
+  "name": "The Kite Festival at Grand Haven",
+  "location": "Grand Haven, MI",
+  "venue": "Grand Haven State Park",
+  "address": "Grand Haven State Park, Grand Haven, MI 49417",
+  "lat": 43.0603, "lon": -86.2534,
+  "date_start": "2026-05-16", "date_end": "2026-05-16",
+  "hours": "10:00 AM - 5:00 PM",
+  "free": true,
+  "url": "",
+  "notes": "",
+  "type": "festival", "source": "", "verified": false
+}
 ]
